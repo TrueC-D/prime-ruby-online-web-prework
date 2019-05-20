@@ -7,5 +7,4 @@ def prime?(n)
     false
   end
 end
-  true
-end
+
